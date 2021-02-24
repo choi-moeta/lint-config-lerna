@@ -1,0 +1,13 @@
+{
+  "name": "@moeta/lint-config",
+  "private": true,
+  "description": "my lint configs",
+  "version": "1.0.0",
+  "author": "moeta <https://github.com/choi-moeta>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "scripts": {
+  }
+}

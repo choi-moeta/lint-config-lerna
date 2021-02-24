@@ -9,5 +9,7 @@
     "lerna": "^3.22.1"
   },
   "scripts": {
+    "version": "lerna version --conventional-commits",
+    "publish": "lerna publish --conventional-commits"
   }
 }

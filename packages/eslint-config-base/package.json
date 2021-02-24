@@ -1,6 +1,6 @@
 {
   "name": "@moeta/eslint-config-base",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "moeta <teqqmu@gmail.com>",
   "license": "MIT",
   "main": "index.js",

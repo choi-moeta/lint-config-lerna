@@ -1,0 +1,19 @@
+{
+  "name": "@moeta/eslint-config-vue",
+  "version": "0.1.0",
+  "author": "moeta <teqqmu@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": "^5.0.0"
+  },
+  "dependencies": {
+    "eslint-plugin-vue": "^7.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0"
+  }
+}

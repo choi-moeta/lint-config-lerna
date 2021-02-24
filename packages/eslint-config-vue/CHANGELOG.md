@@ -9,14 +9,3 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 ### Features
 
 * add eslint vue config ([25f89a3](https://github.com/choi-moeta/lint-config-lerna/commit/25f89a3de28628fe43f023affe2d9818048fc2ce))
-
-
-
-
-
-# 0.1.0 (2021-02-24)
-
-
-### Features
-
-* add eslint base config ([fe0d3a4](https://github.com/choi-moeta/lint-config-lerna/commit/fe0d3a4545613e7f4af29addfd24e0e7b76b1f80))

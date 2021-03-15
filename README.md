@@ -17,5 +17,6 @@ lerna bootstrap
 
 ## publish
 ```bash
+pnpm run version
 pnpm run publish
 ```

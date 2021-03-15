@@ -1,6 +1,6 @@
 {
   "name": "@moeta/eslint-config-vue",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "moeta <teqqmu@gmail.com>",
   "license": "MIT",
   "main": "index.js",
